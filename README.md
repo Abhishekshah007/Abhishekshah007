@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me by ping
+- 📫 ping me on 127.0.0.1
 
 <!---
 Abhishekshah007/Abhishekshah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Abhishekshah007
-- 👀 I’m interested in development
-- 🌱 I’m currently learning development
-- 💞️ I’m looking for job
-- 📫 ping me on 127.0.0.1
-- projects is hidden because of clients. @SORRY@
+-Looking for job
 
 <!---
 Abhishekshah007/Abhishekshah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
